@@ -1,0 +1,43 @@
+body.vd-coolblue.sticky-header {
+    padding-top: 103px !important;
+}
+
+body.vd-coolblue .coolblue-bar {
+    margin-top: 50px !important;
+}
+
+body.vd-cheaptickets .flight-results-section,
+body.vd-cheaptickets .filter__container,
+body.vd-cheaptickets .flight-details__panel {
+    top: 116px;
+}
+
+body.vd-bol_com .header-section--search.fixed,
+body.vd-america-today .page-header,
+body.vd-travelbird .header-new,
+body.vd-ibood header.docked .menu-top,
+body.vd-cheaptickets .search-results-header,
+body.vd-cheaptickets .main-header.main-header--sticky,
+body.vd-cheaptickets .loader {
+    top: 50px !important;
+}
+
+body.vd-asadventure header.header {
+    margin-top: 53px;
+}
+
+body.vd-booking-com {
+    background-position: 0px 0px !important;
+}
+
+/* Jack & Jones */
+body.vd-jackjones .menu-top-navigation {
+    top: 110px !important;
+}
+
+body.vd-jackjones .servicebar,
+body.vd-jackjones .lightbox-overlay,
+body.vd-jackjones .lightbox-overlay-close
+body.vd-jackjones .top-navigation-search .search__control {
+    top: 50px !important;
+}
