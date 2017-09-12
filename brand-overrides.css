@@ -64,3 +64,7 @@ body.vd-1dayfly #header-shops {
 body.vd-1dayfly #robin_tab_container {
     top: 300px !important;
 }
+body.vd-1dayfly #wrapper.header-scrolled #header-shops {
+    top: 90px !important;
+}
+
