@@ -34,7 +34,6 @@ body.vd-booking-com {
 body.vd-jackjones .menu-top-navigation {
     top: 110px !important;
 }
-
 body.vd-jackjones .servicebar,
 body.vd-jackjones .lightbox-overlay,
 body.vd-jackjones .lightbox-overlay-close
@@ -42,11 +41,21 @@ body.vd-jackjones .top-navigation-search .search__control {
     top: 50px !important;
 }
 
+/* Vero Moda */
+body.vd-veromoda .menu-top-navigation {
+    top: 110px !important;
+}
+body.vd-veromoda .servicebar,
+body.vd-veromoda .lightbox-overlay,
+body.vd-veromoda .lightbox-overlay-close
+body.vd-veromoda .top-navigation-search .search__control {
+    top: 50px !important;
+}
+
 /* 1DayFly */
 body.vd-1dayfly #header-top { 
     top: 50px!important;
 }
-
 body.vd-1dayfly #header-shops {
     top: 153px! important;
 }
