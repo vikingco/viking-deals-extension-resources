@@ -1,6 +1,7 @@
 /* Viking Deals bar */
 #vikingdeals-bar .vikingdeals-button {
     text-transform: none !important;
+    color: #FFF !important;
 }
 
 /* General Partners */
@@ -19,7 +20,9 @@ body.vd-veromoda .servicebar,
 body.vd-veromoda .lightbox-overlay,
 body.vd-veromoda .lightbox-overlay-close,
 body.vd-veromoda .top-navigation-search .search__control,
-body.vd-1dayfly #header-top {
+body.vd-1dayfly #header-top,
+body.vd-booking-com.no_bg_img:before,
+body.vd-booking-com .sb-searchbox-sticky {
     top: 50px !important;
 }
     
@@ -57,4 +60,7 @@ body.vd-veromoda .menu-top-navigation{
 /* 1DayFly */
 body.vd-1dayfly #header-shops {
     top: 153px! important;
+}
+body.vd-1dayfly #robin_tab_container {
+    top: 300px !important;
 }
