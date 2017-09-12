@@ -41,3 +41,12 @@ body.vd-jackjones .lightbox-overlay-close
 body.vd-jackjones .top-navigation-search .search__control {
     top: 50px !important;
 }
+
+/* 1DayFly */
+body.vd-1dayfly #header-top { 
+    top: 50px!important;
+}
+
+body.vd-1dayfly #header-shops {
+    top: 153px! important;
+}
