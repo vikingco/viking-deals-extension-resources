@@ -1,3 +1,3 @@
 # viking-deals-extension-resources
 
-Resources for the awesome Viking Deals extension.
+This repository is no longer in use.
